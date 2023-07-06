@@ -62,8 +62,7 @@ public class Program
         Console.WriteLine("Hello, World!");
         var config = new AdminClientConfig
         {
-            // BootstrapServers = "192.168.72.128:19092"
-            BootstrapServers = "118.178.84.42:19092"
+            BootstrapServers = "192.168.72.128:19092"
         };
 
 
