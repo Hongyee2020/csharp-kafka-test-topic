@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "F5z6vehbx7Rgnz/wwQBLwhEBnnDWZtO10PEPkGyo0u0ahMyDfIc5hvMFzVi89Eu9BVgghjC3diCOl09sVwPLmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LQJ\\Desktop\\230706Kafka-simple\\topic\\topic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LQJ\\.nuget\\packages\\confluent.kafka\\2.1.1\\confluent.kafka.2.1.1.nupkg.sha512",
+    "C:\\Users\\LQJ\\.nuget\\packages\\librdkafka.redist\\2.1.1\\librdkafka.redist.2.1.1.nupkg.sha512",
+    "C:\\Users\\LQJ\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
